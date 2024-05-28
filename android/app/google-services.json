@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128458254874",
+    "project_id": "mapbox-firebase-f73ad",
+    "storage_bucket": "mapbox-firebase-f73ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128458254874:android:9964a1573b07803cd47fa3",
+        "android_client_info": {
+          "package_name": "com.example.mapbox_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLP6YFAhXSn-PZlSn2LWSy4Y8VEfIS_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

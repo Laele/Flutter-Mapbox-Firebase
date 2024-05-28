@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "mapbox_firebase_app",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define",
+                "ACCESS_TOKEN=sk.eyJ1IjoibGFlbGUiLCJhIjoiY2x2eDA5OGs1MDVhcDJsczR5djV4ZDYxbCJ9.GOSsdqekoc6Cl1-rIR3RCQ"
+            ] 
+        },
+        {
+            "name": "mapbox_firebase_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mapbox_firebase_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
